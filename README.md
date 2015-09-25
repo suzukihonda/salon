@@ -1,5 +1,5 @@
 # salon
-Aplikacja do zarządzani motocyklowym
+Aplikacja do zarządzaniiph; motocyklowym
 
 tutoroal
 https://git-scm.com/book/pl/v1/Podstawy-Gita-Pierwsze-repozytorium-Gita
