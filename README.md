@@ -1,10 +1,6 @@
-# salon
-Aplikacja do zarządzaniiph; motocyklowym
+# Instalacja GIT na windows
+https://git-scm.com/download/win
 
-tutoroal
-https://git-scm.com/book/pl/v1/Podstawy-Gita-Pierwsze-repozytorium-Gita
+# Klonowanie repozytorium
+git clone https://github.com/suzukihonda/salon.git
 
-https://git-scm.com/downloads
-
-Jak sklonowac
-git clone git://github.com/suzukihonda/salon.git
