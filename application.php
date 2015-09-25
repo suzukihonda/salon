@@ -1,7 +1,18 @@
 <?php
 
-$conn= mysqli_connect('localhost','root','','salon');
+class Application
+{
+    private $conn;
 
-$sql = "SELECT * FROM motocykle";
+    public function connect()
+    {
+        $this->conn = mysqli_connect('localhost', 'root', '', 'salon');
+    }
 
-$result=$conn->query($sql);
+    public function getMoto()
+    {
+        $sql = "SELECT * FROM motocykle";
+
+        return $this->conn->query($sql);
+    }
+}

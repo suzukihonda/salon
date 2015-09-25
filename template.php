@@ -5,7 +5,7 @@
     <body>
 
         <table>
-            <?php foreach ($result as $value): ?>
+            <?php foreach ($app->getMoto() as $value): ?>
                 <tr>
                     <td>
                         <?php echo $value['marka']; ?>
